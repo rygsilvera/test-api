@@ -1,0 +1,23 @@
+{
+  "name": "test-api",
+  "version": "1.0.0",
+  "description": "A simple API setup to interact with test database",
+  "type":"module",
+  "main": "api.js",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [
+    "example",
+    "automation",
+    "api"
+  ],
+  "author": "Ryan Silvera rygsilvera@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "*"
+  },
+  "devDependencies": {
+    "nodemon": "*"
+  }
+}
