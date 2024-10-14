@@ -5,6 +5,7 @@
   "type":"module",
   "main": "api.js",
   "scripts": {
+    "start":"node api.js",
     "test": ""
   },
   "keywords": [
